@@ -1,2 +1,2 @@
-# Natours-master
-Udemy advanced CSS Project 1
+# FRONT-END-advanced-css
+Advanced css with animations 
